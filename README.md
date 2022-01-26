@@ -35,7 +35,7 @@ Athena Explorer has been launched for over one year,  with three major releases 
 
 ## Website
 <!--Link your website if available-->
-https://www.atpool.com/en/
+atpool.io
 
 ### Team Size  
 5
